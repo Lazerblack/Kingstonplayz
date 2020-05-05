@@ -1,0 +1,2 @@
+# Kingstonplayz
+Join bot
